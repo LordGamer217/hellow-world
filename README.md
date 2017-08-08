@@ -1,2 +1,2 @@
 # hellow-world
-nk cia ner
+kazkas jau yra cia
